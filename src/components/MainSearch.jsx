@@ -35,9 +35,9 @@ const MainSearch = () => {
     <Container>
       <Row>
         <Col xs={10} className="d-flex flex-wrap align-items-center mx-auto my-3">
-          <h1 className="display-1 me-auto">Remote Jobs Search</h1>
+          <h1 className="display-1 me-auto">Ricerca del lavori</h1>
           <Button variant="outline-primary" onClick={() => navigate("/favourites")}>
-            go to Favourites
+            Vai ai Preferiti
           </Button>
         </Col>
         <Col xs={10} className="mx-auto">
